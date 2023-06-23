@@ -1,3 +1,17 @@
-.Hhead{
-    font-family: Droid Sans;
+.firstSection{
+    margin-bottom: 10%;
 }
+
+.mSection {
+    margin-top: 10%;
+}
+
+.DSFont{
+    font-family: Droid Sans !important;
+}
+
+.CBFont{
+    font-family: Calibri !important;
+}
+
+
